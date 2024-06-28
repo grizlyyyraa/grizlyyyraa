@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: edge_dart_runtime
+dependency_overrides:
+  grizlyyyraa:
+    path: ../grizlyyyraa
+  grizlyyyraa_scheme:
+    path: ../grizlyyyraa_scheme
